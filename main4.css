@@ -1,0 +1,30 @@
+img{
+  width: 720px;
+}
+
+.frame {
+  padding: .5em 1em;
+  background-color: #000;
+}
+
+.slider{
+  width: 840px;
+}
+
+.title {
+  margin-left: 40px;
+  color: #fff;
+  font-size: 20pt;
+  font-weight: bold;
+}
+
+.sentence{
+  margin-left: 40px;
+  color: #fff;
+  font-size: 10pt;
+}
+
+.slick-prev:before
+.slick-next:before{
+  color: black;
+}
